@@ -16,4 +16,5 @@
     <string name="numcero">0</string>
     <string name="btnlimpiar">Clean</string>
     <string name="btnigual">=</string>
+    <string name="btndot">.</string>
 </resources>
